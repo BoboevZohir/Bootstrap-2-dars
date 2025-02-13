@@ -1,0 +1,52 @@
+.q{
+    margin-top: 40px;
+    border-radius: 30px;
+    width: 80px;
+    background: linear-gradient(90deg, pink,yellow);
+}
+.q1{
+    margin-top: 40px;
+    border-radius: 30px;
+    width: 80px;
+    background: linear-gradient(90deg, purple,pink);
+}
+.q2{
+    margin-top: 40px;
+    border-radius: 30px;
+    width: 80px;
+    background: linear-gradient(90deg, aqua,blue);
+}
+.q3{
+    margin-top: 40px;
+    border-radius: 30px;
+    width: 80px;
+    background: linear-gradient(90deg, aqua,lightgreen);
+}
+.imm{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.a{
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.1);
+    -webkit-box-shadow: 0 0 10px rgb(255, 255, 255) ;
+    width: 140px;
+}
+.b{
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.1);
+    -webkit-box-shadow: 0 0 10px rgb(255, 255, 255) ;
+    width: 140px;
+}
+.w{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.1);
+    -webkit-box-shadow: 0 0 10px rgb(255, 255, 255) ;
+}
+.e{
+    background-color: lightgray;
+}

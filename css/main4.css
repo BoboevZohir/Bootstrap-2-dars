@@ -1,0 +1,14 @@
+body{
+    width: 1200 auto;
+    margin: 0 auto;
+}
+.a{
+    width: 200px;
+    margin-top: 15px;
+}
+.wss{
+    margin-left: 100px;
+}
+.b{
+    border-color: rgb(20, 184, 162);
+}
